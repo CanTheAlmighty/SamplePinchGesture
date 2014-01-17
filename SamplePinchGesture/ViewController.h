@@ -15,4 +15,7 @@
 
 @property (nonatomic,assign) CGFloat scale;
 
+@property (nonatomic,assign) BOOL fitCells;
+@property (nonatomic,assign) BOOL animatedZooming;
+
 @end
